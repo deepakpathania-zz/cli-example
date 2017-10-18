@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "argparse": "^1.0.9",
+    "commander": "^2.11.0"
+  }
+}
